@@ -1,0 +1,8 @@
+.footer {
+    background-color: rgb(57, 120, 185);
+    color: wheat;
+    height: 130px;
+    margin: auto;
+    width: 1400px;
+    border-radius: 50px 50px 0px 0px;
+}

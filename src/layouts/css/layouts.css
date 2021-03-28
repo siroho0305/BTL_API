@@ -1,0 +1,32 @@
+.layout{
+    display: flex;
+}
+
+.content{
+    position: relative;
+    width: 1650px;
+    height: auto;
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+.content-page{
+    min-height: 937px;
+    margin-left: 200px;
+    width: 100%;
+}
+
+.log_in{
+    height: 500px;
+    width: 1000px;
+    background-color: #9dffb0;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+}
